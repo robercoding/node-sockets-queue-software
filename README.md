@@ -1,4 +1,4 @@
-# Queue software:
+# Queue software
 
 A Queue Software built with sockets. I've made with the purpose of amplifying my knowledge about sockets and training my logic.
 
