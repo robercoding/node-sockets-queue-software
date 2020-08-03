@@ -14,18 +14,21 @@ You can find test the software in this [WebPage](https://rober-queue-software.he
 
 <i>Main screen</i>
 
-| <img src="demo/main-screen.png" width="500" height="400"/>
+| <img src="demo/main-screen.png" width="500" height="200"/>
 
 <b>There will be people creating tickets, these tickets will be stored in a json that will simulate a DB</b>
 
 | <img src="demo/generate-tickets.gif" width="500" height="400"/>
+<br>
 
 <b>Now I'll simulate 4 workers, one for desk</b>
 
-| <img src="demo/workers.png" width="500" height="400"/>
+| <img src="demo/workers.png" width="700" height="400"/>
+<br>
 
 <b>Workers will start managing the tickets by serving the next ticket. People who's waiting for their turn will have a screen</b>
-| <img src="demo/queue-software-in-action.gif" width="500" height="400"/>
+
+| <img src="demo/queue-software-in-action.gif" width="1600" height="500"/>
 
 
 * Every new day the database is cleaned up 
